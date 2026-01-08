@@ -1,0 +1,4 @@
+baseURL = 'https://wuzhenhuan428.github.io'
+languageCode = 'en-us'
+title = "WuZhenhuan428's Blog"
+theme = 'hugo-theme-stack'

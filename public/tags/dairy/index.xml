@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Dairy on WuZhenhuan428&#39;s Blog</title>
+        <link>http://localhost:1313/tags/dairy/</link>
+        <description>Recent content in Dairy on WuZhenhuan428&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Thu, 01 Jan 2026 11:56:23 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/dairy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>建站纪念，元旦快乐</title>
+        <link>http://localhost:1313/p/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5%E5%85%83%E6%97%A6%E5%BF%AB%E4%B9%90/</link>
+        <pubDate>Thu, 01 Jan 2026 11:56:23 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5%E5%85%83%E6%97%A6%E5%BF%AB%E4%B9%90/</guid>
+        <description>&lt;h1 id=&#34;建站纪念&#34;&gt;建站纪念
+&lt;/h1&gt;&lt;p&gt;这是本站建站第一篇文章，正好是2026年元旦，因此简单写两句作为纪念。&lt;/p&gt;
+&lt;h1 id=&#34;本站由来&#34;&gt;本站由来
+&lt;/h1&gt;&lt;p&gt;其实一直都有建站的想法。大约九个月之前，从同学处了解到腾讯云的优惠，头脑一热，
+便花不到80租了一年2C1G的云服务器，但是苦于无处使用，便简单部署了一个WordPress的动态网页。
+动态网页虽然方便，Markdown的编辑确实是弱项，尤其是我还要插入LaTeX公式。
+再加上不想花钱买域名（更不想用那种数字域名），于是服务器就当作私有的git服务器使用。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这里吐槽一句：没有域名干什么都不好使，不论是对外还是对内的服务^^;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;到了这几天，突然觉得自己有必要写一点什么，于是便产生了建立一个Github主页的念头，
+于是便通过Hugo部署了这个网站。同时配置了Github Actions工作流，用于自动更新。&lt;/p&gt;
+&lt;p&gt;另一方面，既然自己花了精力来建站，也能逼自己不断地写作、不断地总结。对于我这种懒人来说，
+也是挺好的一个办法（笑）&lt;/p&gt;
+&lt;h1 id=&#34;写在最后&#34;&gt;写在最后
+&lt;/h1&gt;&lt;p&gt;祝一不小心看到这里的观众元旦快乐，我会尽量保持这个博客的更新。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要是那天觉得这个博客不好维护，直接迁移到第三方平台也说不定呢（笑）&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

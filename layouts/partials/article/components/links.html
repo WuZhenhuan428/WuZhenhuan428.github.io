@@ -1,0 +1,20 @@
+{{/* Render flat links (legacy) */}}
+{{ if .Params.links }}
+    <div class="article-list--compact links">
+        {{ range $i, $link := .Params.links }}
+            {{ partial "article/components/link-card" (dict "context" $ "link" $link) }}
+        {{ end }}
+    </div>
+{{ end }}
+
+{{/* Render grouped links */}}
+{{ range .Params.linksGroups }}
+    {{ if .name }}
+        <h2 class="section-title" style="margin-top: 2rem; margin-bottom: 1rem;">{{ .name }}</h2>
+    {{ end }}
+    <div class="article-list--compact links">
+        {{ range $i, $link := .links }}
+            {{ partial "article/components/link-card" (dict "context" $ "link" $link) }}
+        {{ end }}
+    </div>
+{{ end }}

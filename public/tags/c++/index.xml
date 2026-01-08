@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>C&#43;&#43; on WuZhenhuan428&#39;s Blog</title>
+        <link>http://localhost:1313/tags/c&#43;&#43;/</link>
+        <description>Recent content in C&#43;&#43; on WuZhenhuan428&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 03 Jan 2026 00:33:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/c++/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>属于C&#43;&#43;的一天</title>
+        <link>http://localhost:1313/p/%E5%B1%9E%E4%BA%8Ec-%E7%9A%84%E4%B8%80%E5%A4%A9/</link>
+        <pubDate>Sat, 03 Jan 2026 00:33:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%B1%9E%E4%BA%8Ec-%E7%9A%84%E4%B8%80%E5%A4%A9/</guid>
+        <description>&lt;h1 id=&#34;一篇学习关于c的日记&#34;&gt;一篇学习关于C++的日记
+&lt;/h1&gt;&lt;p&gt;这里是学习C++学昏了头的W先生。&lt;/p&gt;
+&lt;p&gt;这篇日记不涉及任何C++具体内容，只是个人的一些感想。&lt;/p&gt;
+&lt;h1 id=&#34;事情的起因&#34;&gt;事情的起因
+&lt;/h1&gt;&lt;p&gt;Verilog的设计方式一直是被吐槽的内容，而VHDL又过于麻烦了，
+System Verilog的出现在一定程度上解决了这些问题。&lt;/p&gt;
+&lt;p&gt;前段时间通过写RISC-V来学习System Verilog，跟着资料动手实践确实能使人进步。&lt;/p&gt;
+&lt;p&gt;但是随着学习的深入，引导式的资料明显是不够用了，这时候就有必要引入新的学习方法。&lt;/p&gt;
+&lt;p&gt;对于数字设计来说，只使用testbench明显是不够的，引入几种不同的仿真手段十分有必要。&lt;/p&gt;
+&lt;p&gt;而处理器是更特别的一种：以状态机为目标的设计使得处理器能从不同的层级进行仿真。
+于是寻找能提高开发效率的工具和流程就改提上日程了。&lt;/p&gt;
+&lt;p&gt;刚开始使用各种工具的体验其实都算不上好^^；偶然想起了Verilator，
+用C++来仿真的方式确实很特别。同时结合自己写过一些嵌入式开发的C语言代码，
+抱着「从C过渡到C++应该不算太难吧」的想法，W先生就开始了自己的受难之旅（笑）&lt;/p&gt;
+&lt;p&gt;那么&amp;hellip;结果又如何呢？&lt;/p&gt;
+&lt;p&gt;结果当然是显而易见的，C和C++完全是两回事，更别说是数字电路和软件的联合开发。&lt;/p&gt;
+&lt;p&gt;套用某些名言，那就是「好复杂的C++，这下便样衰了」。&lt;/p&gt;
+&lt;p&gt;事已至此，那还是努力学习吧（笑）&lt;/p&gt;
+&lt;h1 id=&#34;关于学习c本身&#34;&gt;关于学习C++本身
+&lt;/h1&gt;&lt;p&gt;关于C++的教学视频，国内网络上充斥着太多「零基础学习」之类的内容。
+成体系的教学视频对于初学者来说固然是好事，但是对于有一定开发经验的人来说，还是过于繁琐了。&lt;/p&gt;
+&lt;p&gt;我这次学习C++参考的是Cherno的C++教学视频，不涉及过新的标准，但是信息量也足够大，
+对于有经验却想切换到C++的人来说十分合适。&lt;/p&gt;
+&lt;p&gt;Link: &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=18c3MTX0PK0&amp;amp;list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Dk4y1j7oj?p=2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bilibili&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;关于开发工具的一些感想&#34;&gt;关于开发工具的一些感想
+&lt;/h1&gt;&lt;p&gt;一直以来不喜欢商业化工具，尤其是大型的商业化工具，&lt;/p&gt;
+&lt;p&gt;一直很推崇自由和开源的精神，使用Linux、GCC等工具有益于身心健康，
+而不是将精力浪费在所谓&lt;code&gt;在Windows上设置环境变量&lt;/code&gt;和&lt;code&gt;优化Windows系统&lt;/code&gt;上。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当然，在Linux上也一样。I don&amp;rsquo;t use Arch, btw.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;另一方面，学校的老师们喜欢让学生们使用付费商业软件，即使他们并不提供授权信息。&lt;/p&gt;
+&lt;p&gt;在有开源或者免费代替品的情况下，我实在不认为大规模使用破解软件是一件好的事情，
+无论这些东西是否涉及商用。&lt;/p&gt;
+&lt;p&gt;但是话又说回来，IC设计毕竟是重生产资料的行业，商业化是主流也是理所当然的，
+开源生态发展不足也在预料之中。&lt;/p&gt;
+&lt;p&gt;希望开源生态能乘着RISC-V的这股东风能快速发展吧。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是属于这个博客的第二篇文章，以前看别人写文章没感觉，
+直到自己开始写文章才发现这件事相当麻烦。
+要是能长久写下去，一定要在什么时候好好犒劳一下自己（笑）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;话说回来&#34;&gt;话说回来
+&lt;/h1&gt;&lt;p&gt;Debian Testing竟然比一般的发行版都要稳定。&lt;/p&gt;
+&lt;p&gt;几个有名的音乐播放器的名字也都相当随便。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;特指Foobar2000先生和DeaDBeeF先生。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一边喝着绿茶一边听着ZUN曲熬夜的ＷＺＨ先生&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

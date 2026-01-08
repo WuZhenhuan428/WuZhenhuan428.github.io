@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Diary on WuZhenhuan428&#39;s Blog</title>
+        <link>http://localhost:1313/categories/diary/</link>
+        <description>Recent content in Diary on WuZhenhuan428&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 09 Jan 2026 01:24:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/diary/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>考试战后结算</title>
+        <link>http://localhost:1313/p/%E8%80%83%E8%AF%95%E6%88%98%E5%90%8E%E7%BB%93%E7%AE%97/</link>
+        <pubDate>Fri, 09 Jan 2026 01:24:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E8%80%83%E8%AF%95%E6%88%98%E5%90%8E%E7%BB%93%E7%AE%97/</guid>
+        <description>&lt;p&gt;这里是经过考试后满身疮痍的W先生。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;搭配《Player Score》食用更佳。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;每日编程&#34;&gt;每日编程
+&lt;/h1&gt;&lt;p&gt;今天没有qt，没有C++，更没有System Verilog。&lt;/p&gt;
+&lt;p&gt;今天是回归传统学习的一天。&lt;/p&gt;
+&lt;h1 id=&#34;关于考试&#34;&gt;关于考试
+&lt;/h1&gt;&lt;p&gt;能总结的内容并不多，整个流程如下：临时抱佛脚-&amp;gt;自信心满满-&amp;gt;被原题制裁。&lt;/p&gt;
+&lt;p&gt;原试卷想要及格看起来十分的困难，只能将及格的希望寄托于老师在考前许诺的「只要有40分我就尽力把你们捞到60分」。&lt;/p&gt;
+&lt;p&gt;不过另一方面，这个考试其实没有那么重要，毕竟和升学的规划无关，即使是补考大概也是能接受的（真的吗）&lt;/p&gt;
+&lt;h1 id=&#34;每日折腾&#34;&gt;每日折腾
+&lt;/h1&gt;&lt;p&gt;vim的命令方式令我感到有些不对。&lt;/p&gt;
+&lt;p&gt;我使用编辑器的目的始终只有一个，那就是尽量保证双手在主键盘区的同时提高输入效率，最好还要降低脑容量的负担。而vim对于模式切换和符号的使用频率似乎过高了，有着浓厚的shell脚本风味。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我对与脚本似乎不太对付。&amp;ndash;来自几天前的日记&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;那我为什么不使用Emacs或者VSCode呢？这个问题值得思考。&lt;/p&gt;
+&lt;p&gt;对于接下来DIY键盘的设计，我可能会放弃ErgoDox-Like的设计，而是转向直列键盘+拆分空格+键位微调的结构。&lt;/p&gt;
+&lt;p&gt;为了适应某种需求而使用极端的设计确实不太好，尤其是在多样的环境下，更应该求通解而不是特解。&lt;/p&gt;
+&lt;h1 id=&#34;一些碎碎念&#34;&gt;一些碎碎念
+&lt;/h1&gt;&lt;p&gt;受到考试的影响，博客暂停了好几天，今天终于恢复了。&lt;/p&gt;
+&lt;p&gt;一门课程的老师连着十几天没有消息，即使课程设计的验收时间已经到了。大家的评价是过于不靠谱。&lt;/p&gt;
+&lt;p&gt;虽然考试成绩大概不行，但毕竟已经过去了，不如认真应对接下来的考试。&lt;/p&gt;
+&lt;p&gt;奈须蘑菇也是喜欢左右横跳的人。但是无论是谁，都请保持职业道德，以免晚节不保。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;目前我最佩服的两位分别是ZUN和镰池和马，虽然偶尔也有烂活，但好歹是用心创作的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对于自己来说，无论做了什么，都还请向前看。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「往者不可谏，来者犹可追」，古人的智慧总是值得学习。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;困到睁不开眼但是试图坚持写完日记的W&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>今日总结</title>
+        <link>http://localhost:1313/p/%E4%BB%8A%E6%97%A5%E6%80%BB%E7%BB%93/</link>
+        <pubDate>Mon, 05 Jan 2026 01:22:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E4%BB%8A%E6%97%A5%E6%80%BB%E7%BB%93/</guid>
+        <description>&lt;p&gt;这里是终于开始复习（预习）学校课程的W先生。&lt;/p&gt;
+&lt;h1 id=&#34;今日c&#34;&gt;今日C++
+&lt;/h1&gt;&lt;p&gt;今天仍然在学习C++。&lt;/p&gt;
+&lt;p&gt;还是跟着Cherno的视频学习，但是目前到了多线程和性能优化之类的内容。就自己的目的而言，暂时不需要继续跟着学下去了。接下来做点实际的内容，一边写代码一边查文档的方式可能会更有效。想到之前专程学C++的一个理由，于是打算通过Qt来学习C++。&lt;/p&gt;
+&lt;p&gt;虽然想法很好，但是却遇到了其他的问题。是的，我需要学习CMake。&lt;/p&gt;
+&lt;h1 id=&#34;关于cmake&#34;&gt;关于CMake
+&lt;/h1&gt;&lt;p&gt;我对CMake的第一印象是麻烦。一堆配置选项放在那里，却没有类似于cube-cmake的生成模板的功能。不过能理解，毕竟不是嵌入式这种高度一致的平台。&lt;/p&gt;
+&lt;p&gt;另一方面则是很有C++特色。无论是帮助信息还是报错信息，都是C++风格，令人头大。「要是能像Meson那样精准给出错误位置就好了」，我是这样想的。&lt;/p&gt;
+&lt;p&gt;当然也可能是单纯的和脚本语言不对付（笑）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;脚本语言能做到外部中断吗（夜神月震声）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;关于期末备考&#34;&gt;关于期末备考
+&lt;/h1&gt;&lt;p&gt;离考试没有几天了，于是今天开始看速成课。虽说有点勉强，但是对照例题还是能跟得上，对于不在升学计划中的学科来说，这大概是最好的方式了。&lt;/p&gt;
+&lt;h1 id=&#34;每日折腾&#34;&gt;每日折腾
+&lt;/h1&gt;&lt;p&gt;发现可以使用xsel -b将内容直接输入到系统剪切板中。&lt;/p&gt;
+&lt;p&gt;才发现vim没有删除，只有剪切。&lt;/p&gt;
+&lt;p&gt;今天没怎么折腾，不过发现了一些问题。&lt;/p&gt;
+&lt;p&gt;之前修系统的时候发现tty不能显示CJK，内核补丁却只支持到6.12。这对于我来说无疑是很糟糕的。不过据说tty7能正常显示，&lt;del&gt;有机会可以试一下&lt;/del&gt;最好不要有。&lt;/p&gt;
+&lt;p&gt;另，之前Debian 13上的Wine能正常运行，但是切换到testing之后音频输出现了问题。于是我切换了Debian Testing的Wine软件源。&lt;/p&gt;
+&lt;p&gt;毫无疑问，Wine彻底跑不动了（笑）&lt;/p&gt;
+&lt;p&gt;我问了GhatGPT，得到的回复是「这些软件正处于重大的变更期之间，不稳定是正常的」。既然这样那就等等吧，反正双系统还是有的。&lt;/p&gt;
+&lt;p&gt;又想到Arch Linux。之前一直觉得Arch是那种「有用的包很少，没用的包很多」的类型，今天也是体会到好处了。&lt;/p&gt;
+&lt;p&gt;但是作为一个喜欢长参数的人，我永远无法接受pacman过于抽象的参数。&lt;/p&gt;
+&lt;h1 id=&#34;话说回来&#34;&gt;话说回来
+&lt;/h1&gt;&lt;p&gt;习惯了用右手输入BGT这一列字母，虽说是打游戏留下来的习惯，但是键盘布局也有很大问题。这很明显不利于我的分体键盘计划（如果有的话）&lt;/p&gt;
+&lt;p&gt;这两天都有熬夜，稍微打破了早睡的习惯，有必要纠正一下。&lt;/p&gt;
+&lt;p&gt;睡意十足但是仍然坚持写日记的ＷＺＨ先生&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其实文章的发布日期是我创建的时间，有人发现吗&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>临近考试但是沉迷学习无关知识的一天</title>
+        <link>http://localhost:1313/p/%E4%B8%B4%E8%BF%91%E8%80%83%E8%AF%95%E4%BD%86%E6%98%AF%E6%B2%89%E8%BF%B7%E5%AD%A6%E4%B9%A0%E6%97%A0%E5%85%B3%E7%9F%A5%E8%AF%86%E7%9A%84%E4%B8%80%E5%A4%A9/</link>
+        <pubDate>Sun, 04 Jan 2026 00:13:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E4%B8%B4%E8%BF%91%E8%80%83%E8%AF%95%E4%BD%86%E6%98%AF%E6%B2%89%E8%BF%B7%E5%AD%A6%E4%B9%A0%E6%97%A0%E5%85%B3%E7%9F%A5%E8%AF%86%E7%9A%84%E4%B8%80%E5%A4%A9/</guid>
+        <description>&lt;p&gt;这里是仍然学习C++学昏了头的W先生。&lt;/p&gt;
+&lt;h1 id=&#34;又是学习c的一天&#34;&gt;又是学习C++的一天
+&lt;/h1&gt;&lt;p&gt;是的，今天的主题还是C++。&lt;/p&gt;
+&lt;p&gt;C++的功能确实强大，甚至有些过于强大了。这背后就会带来一些问题，比如重复造轮子，又比如学习难度过高。&lt;/p&gt;
+&lt;p&gt;不过作为一门实用性的工具，我认为正确的使用方法还是按需学习，这样能显著减轻心智负担。比如我自己，学习C++的目的就只是为了Verilator。&lt;/p&gt;
+&lt;p&gt;不过现在看来，自己的目的似乎增加了（笑）&lt;/p&gt;
+&lt;h1 id=&#34;关于c的一些想法&#34;&gt;关于C++的一些想法
+&lt;/h1&gt;&lt;p&gt;今天还是通过Cherno的教学视频进行学习。&lt;/p&gt;
+&lt;p&gt;毕竟是游戏开发人员，Cherno通过Visual Studio讲解静态库和动态库。&lt;/p&gt;
+&lt;p&gt;这对我来说意味着要自己探索Linux的机制，虽然过程有些麻烦，但也算得上是一件好事。毕竟我之前从来没有接触过这类知识。&lt;/p&gt;
+&lt;p&gt;Linux的环境变量确实好用啊。&lt;/p&gt;
+&lt;h1 id=&#34;期末备考&#34;&gt;期末备考
+&lt;/h1&gt;&lt;p&gt;过几天就要考试了，科目是大名鼎鼎的电磁场与电磁波，而我处于一个几乎没有学习过的状态。&lt;/p&gt;
+&lt;p&gt;该怎么说呢，学电子大概就是这样的吧（笑）&lt;/p&gt;
+&lt;p&gt;而我还在慢悠悠的学习C++。&lt;/p&gt;
+&lt;p&gt;对了，实际上还有一门操作系统，不过老师已经在明面上放水了，倒也不怕。&lt;/p&gt;
+&lt;p&gt;有时候不经会吐槽，从Web设计到通信原理，从软件工程再到数字设计，学校安排的课程跨度未免有些过大了^^;&lt;/p&gt;
+&lt;h1 id=&#34;每日折腾&#34;&gt;每日折腾
+&lt;/h1&gt;&lt;p&gt;vim果然是越用越习惯，今天基本上掌握了选中换行的操作，反而是VSCode越用越不习惯了。&lt;/p&gt;
+&lt;p&gt;但是还是存在一些问题，vim的一些设计还是不太适应。比如退出编辑模式后，光标默认会向前一格，这时候想要用块选中就容易出现错位。&lt;/p&gt;
+&lt;p&gt;此外，在N模式下使用各种命令，容易被输入法干扰，这时候需要额外输入一个回车，也不知道fcitx5有没有对应的插件。&lt;/p&gt;
+&lt;p&gt;另一方面，打字的瓶颈越来越明显了。像这种文字类的还好，毕竟拼音还是相当有规律的。一旦到了写代码的环节，组合键与符号键的频率相当高，只能不断地低头看键盘。&lt;/p&gt;
+&lt;p&gt;为了减轻小指的负担，之前折腾过人体工学的直列（伪）分体键盘，没有成功，这个计划就这样搁置了。等过几天考试结束后再继续吧。&lt;/p&gt;
+&lt;h1 id=&#34;话说回来&#34;&gt;话说回来
+&lt;/h1&gt;&lt;p&gt;绿茶的咖啡因含量应该比红茶高吧，对我来说最明显的感受就是前者能提神，而后者不能。&lt;/p&gt;
+&lt;p&gt;今天闲鱼上挂的主板终于有了一个回复，结果却只是广告。最抽象的是举报页面竟然没有自定义理由^^;&lt;/p&gt;
+&lt;p&gt;发现了Markdown的单换行会被映射为一个空格，这对方块字来说不算友好。&lt;/p&gt;
+&lt;p&gt;临近考试却仍然喝茶、熬夜、学习C++的ＷＺＨ先生&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;偶然发现全角的短横「－」和日语的「ー」似乎是两个不同的字符&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>属于C&#43;&#43;的一天</title>
+        <link>http://localhost:1313/p/%E5%B1%9E%E4%BA%8Ec-%E7%9A%84%E4%B8%80%E5%A4%A9/</link>
+        <pubDate>Sat, 03 Jan 2026 00:33:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%B1%9E%E4%BA%8Ec-%E7%9A%84%E4%B8%80%E5%A4%A9/</guid>
+        <description>&lt;h1 id=&#34;一篇学习关于c的日记&#34;&gt;一篇学习关于C++的日记
+&lt;/h1&gt;&lt;p&gt;这里是学习C++学昏了头的W先生。&lt;/p&gt;
+&lt;p&gt;这篇日记不涉及任何C++具体内容，只是个人的一些感想。&lt;/p&gt;
+&lt;h1 id=&#34;事情的起因&#34;&gt;事情的起因
+&lt;/h1&gt;&lt;p&gt;Verilog的设计方式一直是被吐槽的内容，而VHDL又过于麻烦了，System Verilog的出现在一定程度上解决了这些问题。&lt;/p&gt;
+&lt;p&gt;前段时间通过写RISC-V来学习System Verilog，跟着资料动手实践确实能使人进步。&lt;/p&gt;
+&lt;p&gt;但是随着学习的深入，引导式的资料明显是不够用了，这时候就有必要引入新的学习方法。&lt;/p&gt;
+&lt;p&gt;对于数字设计来说，只使用testbench明显是不够的，引入几种不同的仿真手段十分有必要。&lt;/p&gt;
+&lt;p&gt;而处理器是更特别的一种：以状态机为目标的设计使得处理器能从不同的层级进行仿真。于是寻找能提高开发效率的工具和流程就改提上日程了。&lt;/p&gt;
+&lt;p&gt;刚开始使用各种工具的体验其实都算不上好^^；偶然想起了Verilator，用C++来仿真的方式确实很特别。同时结合自己写过一些嵌入式开发的C语言代码，抱着「从C过渡到C++应该不算太难吧」的想法，W先生就开始了自己的受难之旅（笑）&lt;/p&gt;
+&lt;p&gt;那么&amp;hellip;结果又如何呢？&lt;/p&gt;
+&lt;p&gt;结果当然是显而易见的，C和C++完全是两回事，更别说是数字电路和软件的联合开发。&lt;/p&gt;
+&lt;p&gt;套用某些名言，那就是「好复杂的C++，这下便样衰了」。&lt;/p&gt;
+&lt;p&gt;事已至此，那还是努力学习吧（笑）&lt;/p&gt;
+&lt;h1 id=&#34;关于学习c本身&#34;&gt;关于学习C++本身
+&lt;/h1&gt;&lt;p&gt;关于C++的教学视频，国内网络上充斥着太多「零基础学习」之类的内容。成体系的教学视频对于初学者来说固然是好事，但是对于有一定开发经验的人来说，还是过于繁琐了。&lt;/p&gt;
+&lt;p&gt;我这次学习C++参考的是Cherno的C++教学视频，不涉及过新的标准，但是信息量也足够大，对于有经验却想切换到C++的人来说十分合适。&lt;/p&gt;
+&lt;p&gt;Link: &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=18c3MTX0PK0&amp;amp;list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Dk4y1j7oj?p=2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bilibili&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;关于开发工具的一些感想&#34;&gt;关于开发工具的一些感想
+&lt;/h1&gt;&lt;p&gt;一直以来不喜欢商业化工具，尤其是大型的商业化工具，&lt;/p&gt;
+&lt;p&gt;一直很推崇自由和开源的精神，使用Linux、GCC等工具有益于身心健康，而不是将精力浪费在所谓&lt;code&gt;在Windows上设置环境变量&lt;/code&gt;和&lt;code&gt;优化Windows系统&lt;/code&gt;上。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当然，在Linux上也一样。I don&amp;rsquo;t use Arch, btw.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;另一方面，学校的老师们喜欢让学生们使用付费商业软件，即使他们并不提供授权信息。&lt;/p&gt;
+&lt;p&gt;在有开源或者免费代替品的情况下，我实在不认为大规模使用破解软件是一件好的事情，无论这些东西是否涉及商用。&lt;/p&gt;
+&lt;p&gt;但是话又说回来，IC设计毕竟是重生产资料的行业，商业化是主流也是理所当然的，开源生态发展不足也在预料之中。&lt;/p&gt;
+&lt;p&gt;希望开源生态能乘着RISC-V的这股东风能快速发展吧。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是属于这个博客的第二篇文章，以前看别人写文章没感觉，
+直到自己开始写文章才发现这件事相当麻烦。
+要是能长久写下去，一定要在什么时候好好犒劳一下自己（笑）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;话说回来&#34;&gt;话说回来
+&lt;/h1&gt;&lt;p&gt;Debian Testing竟然比一般的发行版都要稳定。&lt;/p&gt;
+&lt;p&gt;几个有名的音乐播放器的名字也都相当随便。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;特指Foobar2000先生和DeaDBeeF先生。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一边喝着绿茶一边听着ZUN曲熬夜的ＷＺＨ先生&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>建站纪念，元旦快乐</title>
+        <link>http://localhost:1313/p/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5%E5%85%83%E6%97%A6%E5%BF%AB%E4%B9%90/</link>
+        <pubDate>Thu, 01 Jan 2026 11:56:23 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5%E5%85%83%E6%97%A6%E5%BF%AB%E4%B9%90/</guid>
+        <description>&lt;h1 id=&#34;建站纪念&#34;&gt;建站纪念
+&lt;/h1&gt;&lt;p&gt;这是本站建站第一篇文章，正好是2026年元旦，因此简单写两句作为纪念。&lt;/p&gt;
+&lt;h1 id=&#34;本站由来&#34;&gt;本站由来
+&lt;/h1&gt;&lt;p&gt;其实一直都有建站的想法。大约九个月之前，从同学处了解到腾讯云的优惠，头脑一热，便花不到80租了一年2C1G的云服务器，但是苦于无处使用，便简单部署了一个WordPress的动态网页。&lt;/p&gt;
+&lt;p&gt;动态网页虽然方便，但是Markdown的编辑确实是弱项，尤其是我还要插入LaTeX公式。再加上不想花钱买域名（更不想用那种数字域名），于是服务器就只好当作私有的git服务器使用。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有域名干什么都不好使，不论是对外还是对内的服务^^;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;到了这几天，突然觉得自己有必要写一点什么，「那就建立一个Github主页吧」，于是就有了这个网站。&lt;/p&gt;
+&lt;p&gt;另一方面，既然自己花了精力来建站，也能逼自己不断地写作、不断地总结。对于我这种懒人来说，也是挺好的一个办法（笑）&lt;/p&gt;
+&lt;h1 id=&#34;写在最后&#34;&gt;写在最后
+&lt;/h1&gt;&lt;p&gt;祝一不小心看到这里的观众元旦快乐，我会尽量保持这个博客的更新。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要是那天觉得这个博客不好维护，直接迁移到第三方平台也说不定呢（笑）&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
