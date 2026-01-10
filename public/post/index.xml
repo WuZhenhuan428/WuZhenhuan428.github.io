@@ -6,12 +6,43 @@
         <description>Recent content in Posts on WuZhenhuan428&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 10 Jan 2026 02:37:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>初学者对qt的一些想法</title>
-        <link>http://localhost:1313/p/%E5%88%9D%E5%AD%A6%E8%80%85%E5%AF%B9qt%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/</link>
+        <lastBuildDate>Sun, 11 Jan 2026 01:08:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>无题</title>
+        <link>http://localhost:1313/p/%E6%97%A0%E9%A2%98/</link>
+        <pubDate>Sun, 11 Jan 2026 01:08:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%97%A0%E9%A2%98/</guid>
+        <description>&lt;p&gt;这里是一边听Tsoding直播一边写日记的W&lt;/p&gt;
+&lt;h1 id=&#34;今日c--qt&#34;&gt;今日C++ &amp;amp; Qt
+&lt;/h1&gt;&lt;p&gt;Qt也算C++，即使只是最简单的调用API。&lt;/p&gt;
+&lt;p&gt;通过学习进一步掌握了纯代码编辑Qt界面的技巧，思维上的连续远高于UI设计的速度，毕竟我的工作是写代码而不是平面设计。&lt;/p&gt;
+&lt;p&gt;信号槽的机制十分强大，感觉这个机制十分有利于构建异步进程和多线程，就像数字设计的并行/跨时钟域+缓冲同步。&lt;/p&gt;
+&lt;p&gt;但是反过来想，在容易出问题的地方-比如网络通信-更容易出现流畅地卡死这种情况（笑）&lt;/p&gt;
+&lt;h1 id=&#34;今日折腾&#34;&gt;今日折腾
+&lt;/h1&gt;&lt;h3 id=&#34;键盘&#34;&gt;键盘
+&lt;/h3&gt;&lt;p&gt;越来越觉得所谓的标准键盘布局过于反人类了。左手的B键和右手的Y键距离都远与一个对角线，反而反过来更符合人体工学。&lt;/p&gt;
+&lt;p&gt;键盘的设计必须快点提上日程了，不用考虑经济问题。&lt;del&gt;毕竟某人靠着卖二手机赚了快一千&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;虽然想买一个MIDI键盘，但其实资金是足够的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;编辑器&#34;&gt;编辑器
+&lt;/h3&gt;&lt;p&gt;vim的使用问题更明显了，毕竟在很多时候我只需要修改一两个字符，这时候使用Esc - hjkl - insert这一套性价比实在太低。&lt;/p&gt;
+&lt;p&gt;况且我还要使用各种不同的编辑器，模拟vim的效果并不好。&lt;/p&gt;
+&lt;p&gt;另一方面，如果只是为了自己写插件，作为一门通用语言&lt;del&gt;虽然有方言&lt;/del&gt;，Emacs的lua似乎更有用。vim脚本的泛用性是一个问题，VSCode使用的似乎是TypeScript，也不值得去学习。&lt;/p&gt;
+&lt;h3 id=&#34;关于每日碎碎念&#34;&gt;关于每日碎碎念
+&lt;/h3&gt;&lt;p&gt;我应该给网页加一栏每日碎碎念，编辑自动存档。这方面就交给ai吧（笑）&lt;/p&gt;
+&lt;h1 id=&#34;每日碎碎念&#34;&gt;每日碎碎念
+&lt;/h1&gt;&lt;p&gt;通信原理和FPGA课设是自己选题，老师的迷惑行为太多了。&lt;/p&gt;
+&lt;p&gt;过一周多又有考试，这次必须提前花时间学习，勿复电磁场旧事。&lt;/p&gt;
+&lt;p&gt;突然又感到压力压力十足了。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>初学者对qt运行机制的一些思考</title>
+        <link>http://localhost:1313/p/%E5%88%9D%E5%AD%A6%E8%80%85%E5%AF%B9qt%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
         <pubDate>Sat, 10 Jan 2026 02:37:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%88%9D%E5%AD%A6%E8%80%85%E5%AF%B9qt%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/</guid>
+        <guid>http://localhost:1313/p/%E5%88%9D%E5%AD%A6%E8%80%85%E5%AF%B9qt%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
         <description>&lt;p&gt;这里是作为Qt初学者的W&lt;/p&gt;
 &lt;h1 id=&#34;背景&#34;&gt;背景
 &lt;/h1&gt;&lt;p&gt;虽然接触Qt已经有几天了，但是由于各种事情，直到今天才开始正式写一些Qt代码。&lt;/p&gt;
@@ -460,7 +491,7 @@
 &lt;/h1&gt;&lt;p&gt;对于设计Qt程序的人来说，不是嵌入式开发那样的掌控者，更像是一个协作者。通过描述规则，让Qt框架执行流程并产生对应的内容，同时能接受来自外部的刺激信号，因此有了与外界交互的能力。&lt;/p&gt;
 &lt;h1 id=&#34;碎碎念&#34;&gt;碎碎念
 &lt;/h1&gt;&lt;p&gt;正确的类比能明显减轻心智负担（笑）&lt;/p&gt;
-&lt;p&gt;为了写博客而天天熬夜不是长久之计&lt;/p&gt;
+&lt;p&gt;为了写博客而熬夜不是长久之计&lt;/p&gt;
 &lt;p&gt;工夫红茶没有毛尖好喝&lt;/p&gt;
 </description>
         </item>
